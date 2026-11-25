@@ -1,0 +1,10 @@
+# 観測レポート（実トラフィックの記録なのでコミットしない）
+g1-observe.json
+*.observe.json
+
+# ログ
+*.log
+
+# Python
+__pycache__/
+*.pyc
